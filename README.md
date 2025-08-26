@@ -6,7 +6,7 @@
 - 🔭 I'm currently working as a developer
 - 📫 How to reach me: email me at i.jalal@aui.ma
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't have any ***_personal_ social media accounts*** (ie. Facebook, Instagram, Tiktok, ..) except discord.
+- ⚡ Fun fact: I ...
 
 <p align="center">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
