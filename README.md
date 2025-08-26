@@ -26,19 +26,19 @@
 <br><br><br><br><br>
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=pie972&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pie972&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=pie972&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=imane-jalal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imane-jalal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imane-jalal&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 <br><br>
 
 <p align="center">
-<img width="420" src="https://metrics.lecoq.io/pie972" alt="Github Metrics">
+<img width="420" src="https://metrics.lecoq.io/imane-jalal" alt="Github Metrics">
 </p>
 <br><br>
 
 
 
 
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=pie972" alt="pie"/> </p>  </p>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=imane-jalal" alt="pie"/> </p>  </p>
 <br>
